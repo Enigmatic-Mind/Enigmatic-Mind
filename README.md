@@ -3,10 +3,10 @@
 I'm Electrical and Computer Engineering Ph.D. Student at the [University of Washington](https://www.ece.uw.edu/) 📚
 
 Areas of study:
-* Machine Learning
-* Computer Vision
+* Artifical Intelligence and Machine Learning 🤖
+* Computer Vision 👁
 
 Interests:
-* Innovative Technologies
+* Innovative Technologies 
 * Startups
 * Investing
