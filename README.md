@@ -15,3 +15,5 @@ Background:
 Interests:
 - Consumer iOS apps
 - Growth and Distribution
+
+Apps: https://apps.apple.com/us/developer/monroy-industries-llc/id1795123506
